@@ -1,12 +1,13 @@
 .title {
     background-color: #2C2C2C;
     display: flex;
-    gap: 200px;
+    gap: 100px;
     justify-content: center;
     align-items: center;
     height: 100vh;
     padding: 0;
     margin: 0;
+    flex-wrap: wrap;
 }
 
 #myName {
