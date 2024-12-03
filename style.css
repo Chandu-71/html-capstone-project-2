@@ -1,0 +1,61 @@
+.title {
+    background-color: #2C2C2C;
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+#myName {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: 300px;
+    font-style: normal;
+    color: #F5F5F5;
+    font-size: 3em;
+}
+
+#subtextName {
+    font-family: "Fira Code", monospace;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    color: #00BFFF;
+    font-size: 2em;
+}
+
+#profile_img {
+    width: 300px;
+    border-radius: 50%;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page {
+    background-color: #1A1A1A;
+}
+
+.profile_info {
+    text-align: center;
+}
+
+.information {
+    padding: 20px;
+    text-align: center;
+}
+.information > p {
+    font-size: large;
+    color: #F5F5F5;
+}
+
+h2,h3 {
+    color: white;
+}
+
+#footer {
+    background-color: #2C2C2C;
+}
